@@ -89,7 +89,6 @@ print(apellidos_tuple)
 posición 78 de la lista `apellidos_list`.
 """
 
-
 """Eliminar el 4to elemento de la variable `apellidos_list2`.
 """
 
